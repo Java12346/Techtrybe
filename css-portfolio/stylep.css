@@ -1,0 +1,60 @@
+body{
+  margin: 0; 
+  background-color: rgb(122, 8, 8);
+}
+
+.port{
+  background-color:rgb(241, 238, 238);
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 60px;
+  position: fixed;
+  width: 100%;
+}
+
+
+ul{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-right: 70px;
+}
+a{
+  text-decoration: none;
+}
+li{
+  margin-right: 20px;
+  color: rgb(12, 11, 11);
+
+}
+
+.My{
+  color:rgb(180, 18, 18)
+}
+
+.pic{
+padding-left: 60rem;
+padding-top: 90px;
+
+
+}
+
+.nex{
+  
+  padding: 100px ;
+  margin: -25rem 27rem 0 15rem;
+  color: antiquewhite;
+}
+
+.nex h2{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+
+}
+.nex h4{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 17px;
+}
+
